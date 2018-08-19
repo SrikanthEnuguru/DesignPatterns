@@ -3,7 +3,7 @@ package designpatterns.structural;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FilterPattern {
+public class FilterPatternDemo {
 
 	public static void main(String[] args) {
 		List<Person> persons = new ArrayList<Person>();
